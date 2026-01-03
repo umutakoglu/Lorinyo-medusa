@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@medusajs/file-s3": "^2.12.3"
+  }
+}
